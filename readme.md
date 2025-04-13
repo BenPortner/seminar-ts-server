@@ -35,6 +35,7 @@ This project is a TypeScript-based rewrite of the original [Reveal.js seminar se
      ```
    - For production:
      ```bash
+     export NODE_ENV=production
      npm run start
      ```
 
